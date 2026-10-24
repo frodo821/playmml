@@ -1,0 +1,23 @@
+REM Explosion;
+T240 O2
+BEGIN
+    V70 L24 C
+    V55 L24 C#
+    V50 L24 F#
+    O3 V45 L24 B
+END
+BEGIN
+    O2 V45 L32 C
+    V35 L32 D#
+    V30 L32 G
+END
+BEGIN
+    O2 V25 L48 C
+    V20 L48 F#
+    O3 V15 L48 C#
+END
+BEGIN
+    O2 V12 L64 C
+    V8 L64 G#
+END
+L64 R

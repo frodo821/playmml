@@ -1,0 +1,6 @@
+REM Basic chord progression: C - F - G - C ;
+T90 O4 L960
+BEGIN C E G END
+BEGIN F A > C END
+< BEGIN G B > D END
+< BEGIN C E G END

@@ -1,0 +1,16 @@
+REM Frere Jacques (Are You Sleeping) ;
+T120 O4 L480
+C D E C
+C D E C
+E F G R
+E F G R
+L240
+G A G F
+L480
+E C
+L240
+G A G F
+L480
+E C
+C < G > C R
+C < G > C R

@@ -1,0 +1,16 @@
+REM Damage;
+T240 O4
+BEGIN
+    V50 L24 C
+    V40 L24 C#
+    O5 V35 L24 F#
+END
+BEGIN
+    O4 V30 L24 B
+    V25 L24 C
+    O5 V20 L24 F
+END
+BEGIN
+    O4 V15 L48 A#
+    V12 L48 B
+END

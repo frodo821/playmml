@@ -1,0 +1,64 @@
+REM Clockwork Labyrinth;
+REM 4/4, 16 bars, A minor;
+T160 O4 V12 L128
+
+REM Intro - 2 bars;
+A E A > C < A E A > E
+< G D G B G D G > D
+
+REM Theme A - 4 bars;
+< A C E A > C < A E C
+F A > C F E C < A F
+G B > D G F D < B G
+E G# B > E D < B G# E
+
+REM Theme B - 4 bars;
+A > C E A G E C < A
+F A > C F E C < A F
+D F A > D C < A F D
+E G# B > E D < B G# E
+
+REM Chord sequence - 4 bars;
+L512
+BEGIN
+    O3 L512 A
+    O4 L512 C
+    O4 L512 E
+    O5 L128 A
+END
+
+BEGIN
+    O3 L512 F
+    O4 L512 A
+    O5 L512 C
+    O5 L128 F
+END
+
+BEGIN
+    O3 L512 G
+    O4 L512 B
+    O5 L512 D
+    O5 L128 G
+END
+
+BEGIN
+    O3 L512 E
+    O4 L512 G#
+    O4 L512 B
+    O5 L128 E
+END
+
+REM Finale - 2 bars;
+O4 L128
+A > C E A G E C < A
+F A > C F E C < A F
+
+REM End;
+O4 L512
+BEGIN
+    O3 A
+    O4 C
+    O4 E
+    O5 A
+END
+R

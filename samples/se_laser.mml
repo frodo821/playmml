@@ -1,0 +1,7 @@
+REM Laser shot;
+T240 O7 V35
+L12 E D# D C# C
+< B A# A G# G F# F
+L24 E D C
+L48 < B
+L64 R

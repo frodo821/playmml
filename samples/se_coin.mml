@@ -1,0 +1,6 @@
+REM Coin pickup;
+T240 O5 V35
+L32 E
+L32 G#
+L32 B
+L128 > E

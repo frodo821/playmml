@@ -1,0 +1,65 @@
+REM Bitcrusher's Waltz;
+T144 O4 V10 L128
+
+REM Opening;
+BEGIN
+    O3 L512 A
+    O5 L128 E
+END
+O5 L128 G E C
+
+BEGIN
+    O3 L512 F
+    O5 L128 F
+END
+O5 L128 E C A
+
+BEGIN
+    O3 L512 D
+    O5 L128 F
+END
+O5 L128 A F D
+
+BEGIN
+    O3 L512 E
+    O5 L128 G#
+END
+O5 L128 B G# E
+
+REM Rising sequence;
+O4 L128
+A C E A > C E D C
+< B G E G B > D C B
+
+REM Dissonant section;
+BEGIN
+    O3 L256 A
+    O4 L256 A#
+    O5 L256 E
+END
+BEGIN
+    O3 L256 G
+    O4 L256 G#
+    O5 L256 D
+END
+BEGIN
+    O3 L256 F
+    O4 L256 F#
+    O5 L256 C
+END
+BEGIN
+    O3 L256 E
+    O4 L256 F
+    O5 L256 B
+END
+
+REM Resolution;
+O4 L128
+A > C E A G E C < A
+F A > C F E C < A F
+
+BEGIN
+    O3 L1024 A
+    O4 L512 C
+    O5 L256 E
+END

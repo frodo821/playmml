@@ -1,0 +1,4 @@
+REM C major scale ascending and descending ;
+T120 O4 L480
+C D E F G A B > C
+C < B A G F E D C
